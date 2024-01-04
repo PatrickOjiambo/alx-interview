@@ -1,4 +1,9 @@
 #!/usr/bin/python3
+"""
+File for the pascal triangle
+"""
+
+
 def pascal_triangle(n):
     """
     Pascals triangle
