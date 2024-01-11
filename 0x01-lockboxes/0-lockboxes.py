@@ -8,7 +8,7 @@ def canUnlockAll(boxes):
     """
     Function for unlock all boxes
     """
-    if len(boxes) < 1:
+    if len(boxes) < 2:
         return True
     found_keys = []
     for box in range(len(boxes)):
